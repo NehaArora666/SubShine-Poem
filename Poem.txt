@@ -2,3 +2,4 @@ Color
 Red
 Black 
 Yellow
+Pink
